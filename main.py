@@ -1,7 +1,4 @@
-# lukes notes
-# this program uses a linear regression model, which is pretty complicated
-# to summarize it basically predicts the value of a variable based off of the value of another
-
+#
 
 from random import randint
 TRAIN_SET_LIMIT = 1000
